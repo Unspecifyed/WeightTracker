@@ -19,7 +19,7 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+        setContentView(R.layout.activitylogin)
 
         db = Room.databaseBuilder(applicationContext, AppDatabase::class.java, "weight_tracker_db").build()
 
