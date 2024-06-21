@@ -5,4 +5,5 @@
     <item name="btnUpdate" type="id" />
     <item name="btnDelete" type="id" />
     <item name="gridView" type="id" />
+    <item name="etWeightId" type="id" />
 </resources>
